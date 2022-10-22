@@ -5,7 +5,7 @@
 Solução Web de Catálogo em .NET Core como atividade prática do curso de Clean Architecture na Udemy, ministrado por José Macoratti.
 
 
-## ⚙️ Tecnologias:
+## ⚙️ Tecnologias
 
 - C#, HTML5, CSS3 e Javascript
 - ASP.NET Core
@@ -18,7 +18,7 @@ Solução Web de Catálogo em .NET Core como atividade prática do curso de Clea
 - WebAPI via Swagger UI com autenticação JWT (JSON Web Token)
 - Testes de Unidade com XUnit
 
-## 🛠️ Ferramentas:
+## 🛠️ Ferramentas
 - Microsoft Visual Studio 2022
 - Microsoft SQL Server
 - Git
